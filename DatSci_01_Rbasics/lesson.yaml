@@ -1,0 +1,28 @@
+- Class: meta
+  Course: R_Basics
+  Lesson: DatSci_01_Rbasics
+  Author: Professor Ajit Sharma
+  Type: Standard
+  Organization: Copyright 2017, Ajit Sharma
+  Version: 2.4.3
+
+- Class: text
+  Output: This R Course was developed by Prof. Ajit Sharma for students of Data Science And Analytics. This material was designed for students of data science and data analytics. This is copyrighted material and any duplication of any kind is strictly prohibited.
+
+- Class: text
+  Output: This short lesson is an example of how students can submit their swirl lesson progress using Google Forms.
+
+- Class: cmd_question
+  Output: Enter 2 + 2.
+  CorrectAnswer: 2 + 2
+  AnswerTests: omnitest(correctExpr='2 + 2')
+  Hint: Just enter 2 + 2.
+  
+- Class: mult_question
+  Output: Would you like to submit the log of this lesson to Google Forms so
+    that your instructor may evaluate your progress?
+  AnswerChoices: Yes;No
+  CorrectAnswer: NULL
+  AnswerTests: submit_log()
+  Hint: hint
+
