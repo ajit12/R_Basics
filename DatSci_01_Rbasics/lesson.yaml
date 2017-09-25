@@ -7,7 +7,7 @@
   Version: 2.4.3
 
 - Class: text
-  Output: This R Course was developed by Prof. Ajit Sharma for students of Data Science And Analytics. This material was designed for students of data science and data analytics. This is copyrighted material and any duplication of any kind is strictly prohibited.
+  Output: In Git: This R Course was developed by Prof. Ajit Sharma for students of Data Science And Analytics. This material was designed for students of data science and data analytics. This is copyrighted material and any duplication of any kind is strictly prohibited.
 
 - Class: text
   Output: This short lesson is an example of how students can submit their swirl lesson progress using Google Forms.
